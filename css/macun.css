@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+.logo {
+	width: 80px;
+	display: block;
+	padding: 10px 30px;
+}
+
+.header {
+	background: #f9fafe;
+}
+
+.card {
+	background: linear-gradient(112.72deg, #F9FAFE 1.5%, #D5D4E2 99.07%), #FFFFFF;
+	color: #19113C;
+}
+
+body {
+	background-image: url(../img/bg.jpg);
+	background-color: #28204a;
+	color: #19113c;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	min-width: 1100px;
+}
+
+.s1 {
+background: radial-gradient(63.39% 63.74% at 101.4% 100%, #6E5CCF 0%, #3B306B 71.87%, #312661 100%), #FFFFFF;
+}
+
+.s1 {
+background: #312661;
+}
+
+.uk-card-default {
+	color: #17122b;
+}
+
+.s2 {
+	background: #f9fafe;
+	color: #17122b;
+}
+
+.uk-navbar-nav > li > a {
+	color: #3b306b;
+	padding: 0px 30px;
+}
+
+.prod-desc {
+	margin-bottom: auto !important;
+	display: block;
+}
+
+.uk-button-primary {
+	background-color: #BE1735;
+	color: #fff;
+	border: 1px solid transparent;
+	border-radius: 30px;
+box-shadow: 0 5px 15px rgba(190, 23, 53, 0.5);
+}
+
+.uk-h1, .uk-h2, .uk-h3, .uk-h4, .uk-h5, .uk-h6, .uk-heading-2xlarge, .uk-heading-large, .uk-heading-medium, .uk-heading-small, .uk-heading-xlarge, h1, h2, h3, h4, h5, h6 {
+	color: #3b306b;
+}
+
+.uk-card-primary.uk-card-body, .uk-card-primary > :not([class*="uk-card-media"]), .uk-card-secondary.uk-card-body, .uk-card-secondary > :not([class*="uk-card-media"]), .uk-light, .uk-offcanvas-bar, .uk-overlay-primary, .uk-section-primary:not(.uk-preserve-color), .uk-section-secondary:not(.uk-preserve-color), .uk-tile-primary:not(.uk-preserve-color), .uk-tile-secondary:not(.uk-preserve-color) {
+	color: #fff;
+}
+
+.uk-navbar-nav > li > a {
+	color: #3b306b;
+	padding: 0px 30px;
+	font-weight: 600;
+}
+
+.uk-text-bold {
+	font-weight: 600;
+}
+
+.uk-text-black {
+	font-weight: 700;
+}
+
+.uk-border-rounded {
+	border-radius: 30px;
+}
+
+.uk-box-shadow-medium {
+	box-shadow: 0 5px 15px rgb(49, 38, 97, 0.1);
+}
+
+.uk-light .uk-subnav-pill > .uk-active > a {
+    background-color: #be1735;
+    color: #fff;
+    border-radius: 35px;
+}
+
+.uk-light .uk-subnav-pill > * > :first-child {
+    font-weight: 600;
+    color: #fff;
+}
+
+.maountain {
+	height: 300px;
+}
+
+blockquote {
+	font-size: 16px;
+	line-height: 1.5;
+	font-style: italic;
+	color: #333;
+}
